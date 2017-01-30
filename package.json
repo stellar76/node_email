@@ -1,0 +1,16 @@
+{
+  "name": "replymailer",
+  "version": "1.0.0",
+  "description": "simple mail replier",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Jody Christian",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.16.0",
+    "express": "^4.14.0",
+    "nodemailer": "^2.7.2"
+  }
+}
